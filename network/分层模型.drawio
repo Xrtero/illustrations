@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2022-03-05T10:44:33.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7WsaIRyjlMzqUc2--jAG" version="16.6.6" type="github">
+  <diagram id="Vza0_8ngI1tJUhx6pn7t" name="第 1 页">
+    <mxGraphModel dx="1422" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p4enESWj1PMZfshRzk9U-1" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;物理层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;physical layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-2" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;数据链路层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;data link layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-3" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;网络层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;network layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-4" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;传输层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;transport layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-5" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;会话层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;session layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-6" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;表示层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;presentation layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-7" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;应用层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;application layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-8" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px&quot;&gt;网络访问（链接）层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px&quot;&gt;Network Access (link) layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="320" y="380" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-9" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;网络互连层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;internet layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="310" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-11" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;传输层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;transport layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-12" value="&lt;b style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;应用层&lt;/b&gt;&lt;br style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;application layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="30" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="30" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-19" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-20" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-25" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;3&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-26" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;4&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="258" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-27" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;5&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="118" y="192" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-28" value="&lt;font color=&quot;#202122&quot; face=&quot;sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15.008px ; background-color: rgb(255 , 255 , 255)&quot;&gt;6&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="117" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-29" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;7&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="117" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-30" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-32" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-33" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;3&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="258" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4enESWj1PMZfshRzk9U-34" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 15.008px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;4&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JXrFcWbpmZ4YgWOX3NWM-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;OSI模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JXrFcWbpmZ4YgWOX3NWM-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;TCP/IP模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="540" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
